@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TravelMalaysia</string>
+    <string name="button_not_register">Do not have an account? <font color='red'>Register now</font></string>
+    <string name="after_register">Have an account? <font color='red'>Login now</font></string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+</resources>
